@@ -1,0 +1,15 @@
+C:\GITFORSTUD\C#\dz_2\bin\Debug\net6.0\dz_2.exe
+C:\GITFORSTUD\C#\dz_2\bin\Debug\net6.0\dz_2.deps.json
+C:\GITFORSTUD\C#\dz_2\bin\Debug\net6.0\dz_2.runtimeconfig.json
+C:\GITFORSTUD\C#\dz_2\bin\Debug\net6.0\dz_2.dll
+C:\GITFORSTUD\C#\dz_2\bin\Debug\net6.0\dz_2.pdb
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.csproj.AssemblyReference.cache
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.AssemblyInfoInputs.cache
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.AssemblyInfo.cs
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.csproj.CoreCompileInputs.cache
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.dll
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\refint\dz_2.dll
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.pdb
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\dz_2.genruntimeconfig.cache
+C:\GITFORSTUD\C#\dz_2\obj\Debug\net6.0\ref\dz_2.dll
