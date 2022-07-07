@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GITFORSTUD\\С#dz\\dz1\\dz1.csproj": {}
+    "C:\\GITFORSTUD\\С#dz\\dz_seminar2_1\\dz1.csproj": {}
   },
   "projects": {
-    "C:\\GITFORSTUD\\С#dz\\dz1\\dz1.csproj": {
+    "C:\\GITFORSTUD\\С#dz\\dz_seminar2_1\\dz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITFORSTUD\\С#dz\\dz1\\dz1.csproj",
+        "projectUniqueName": "C:\\GITFORSTUD\\С#dz\\dz_seminar2_1\\dz1.csproj",
         "projectName": "dz1",
-        "projectPath": "C:\\GITFORSTUD\\С#dz\\dz1\\dz1.csproj",
+        "projectPath": "C:\\GITFORSTUD\\С#dz\\dz_seminar2_1\\dz1.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\GITFORSTUD\\С#dz\\dz1\\obj\\",
+        "outputPath": "C:\\GITFORSTUD\\С#dz\\dz_seminar2_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
