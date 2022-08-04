@@ -1,0 +1,15 @@
+C:\GITFORSTUD\С#dz\dzseminar9_3\bin\Debug\net6.0\dzseminar9_3.exe
+C:\GITFORSTUD\С#dz\dzseminar9_3\bin\Debug\net6.0\dzseminar9_3.deps.json
+C:\GITFORSTUD\С#dz\dzseminar9_3\bin\Debug\net6.0\dzseminar9_3.runtimeconfig.json
+C:\GITFORSTUD\С#dz\dzseminar9_3\bin\Debug\net6.0\dzseminar9_3.dll
+C:\GITFORSTUD\С#dz\dzseminar9_3\bin\Debug\net6.0\dzseminar9_3.pdb
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.csproj.AssemblyReference.cache
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.AssemblyInfoInputs.cache
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.AssemblyInfo.cs
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.csproj.CoreCompileInputs.cache
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.dll
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\refint\dzseminar9_3.dll
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.pdb
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\dzseminar9_3.genruntimeconfig.cache
+C:\GITFORSTUD\С#dz\dzseminar9_3\obj\Debug\net6.0\ref\dzseminar9_3.dll
